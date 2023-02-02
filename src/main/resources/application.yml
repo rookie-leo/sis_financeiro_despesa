@@ -1,2 +1,13 @@
 server:
   port: 8082
+
+spring:
+  application:
+    name: despesa-ms
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8085/eureka
+  instance:
+    instance-id: ${spring.application.name}:${random.int}

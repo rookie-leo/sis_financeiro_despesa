@@ -1,8 +1,9 @@
 package com.financeiro.despesa.http.models;
 
 import com.financeiro.despesa.entity.Despesa;
+import com.financeiro.despesa.entity.enums.Categoria;
 
-import com.despesa.entity.enums.Categoria;
+
 import java.math.BigDecimal;
 
 public class DespesaResponse {

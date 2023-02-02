@@ -1,8 +1,8 @@
 package com.financeiro.despesa.entity;
 
+import com.financeiro.despesa.entity.enums.Categoria;
 import jakarta.persistence.*;
 
-import com.despesa.entity.enums.Categoria;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.Objects;

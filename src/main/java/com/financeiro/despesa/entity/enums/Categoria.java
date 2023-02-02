@@ -1,4 +1,4 @@
-package com.despesa.entity.enums;
+package com.financeiro.despesa.entity.enums;
 
 public enum Categoria {
 
@@ -23,4 +23,5 @@ public enum Categoria {
         }
         return Categoria.valueOf(categoria.toUpperCase());
     }
+
 }

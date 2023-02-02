@@ -1,7 +1,7 @@
 package com.financeiro.despesa.http.models;
 
 import com.financeiro.despesa.entity.Despesa;
-import com.despesa.entity.enums.Categoria;
+import com.financeiro.despesa.entity.enums.Categoria;
 import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.NotNull;
 

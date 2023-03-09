@@ -5,7 +5,7 @@ public enum Categoria {
     ALIMENTACAO("Alimentacao"),
     SAUDE("Saude"),
     MORADIA("Moradia"),
-    TRANSPORTE("Transporete"),
+    TRANSPORTE("Transporte"),
     EDUCACAO("Educacao"),
     LAZER("Lazer"),
     IMPREVISTOS("Imprevistos"),
